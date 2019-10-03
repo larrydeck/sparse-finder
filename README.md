@@ -45,7 +45,7 @@ Concordia's output presently looks like this:
 
 ```
 
-access token:  tk_cgvxvR7S0o7sP3SAUV9cF12C280yvzDeTRJd
+access token:  [token]
 expires_in:    1199
 expires_at:    2019-10-03 16:19:12Z
 type:          bearer
