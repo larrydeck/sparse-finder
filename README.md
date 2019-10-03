@@ -8,7 +8,7 @@ Python `requests` module.
 
 WSKEY for Metadata API
 
-pricipleID and principleIDNS
+principleID and principleIDNS
 
 your registryID
 
