@@ -3,9 +3,13 @@ A python script to retrieve "sparse" records (or any records) from WMS.
 
 ## Requirements
 Python `requests` module.
+
 [OCLC Python Authentication Library](https://github.com/OCLC-Developer-Network/oclc-auth-python)
+
 WSKEY for Metadata API
+
 pricipleID and principleIDNS
+
 your registryID
 
 ## Usage
