@@ -49,12 +49,12 @@ access token:  tk_cgvxvR7S0o7sP3SAUV9cF12C280yvzDeTRJd
 expires_in:    1199
 expires_at:    2019-10-03 16:19:12Z
 type:          bearer
-1108665268 .b30074587 MAIN What's in your wallet /
-1108669635 .b35939242 MAIN INTRODUCTORY INORGANIC CHEMISTRY I-WET LABS (Coursepack).
-1108672386 .b27525272 MAIN Systematic Harmonic Substitution /
-1108673639 .b37226824 MAIN LABORATORY MANUAL - INTRODUCTORY BIOLOGY (Coursepack).
-1108670448 .b31714547 MAIN Vanier Equipment -- Headphones: Sony ZX100.
-1108673988 .b22483469 MAIN Chance meeting
+1108665268 .b30074587 What's in your wallet /
+1108669635 .b35939242 INTRODUCTORY INORGANIC CHEMISTRY I-WET LABS (Coursepack).
+1108672386 .b27525272 Systematic Harmonic Substitution /
+1108673639 .b37226824 LABORATORY MANUAL - INTRODUCTORY BIOLOGY (Coursepack).
+1108670448 .b31714547 Vanier Equipment -- Headphones: Sony ZX100.
+1108673988 .b22483469 Chance meeting
 ...
 ```
 
